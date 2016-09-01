@@ -4,7 +4,7 @@
 /wp-content/index.php
 !/wp-content/themes/
 /wp-content/themes/*
-!/wp-content/themes/twentyfifteen/
+/wp-content/themes/twentyfifteen/
 /wp-content/uploads/
 /wp-content/themes/am2/.idea
 
